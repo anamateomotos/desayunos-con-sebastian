@@ -232,7 +232,6 @@ a {
 /* ── Chapter Content ── */
 .chapter-content {
   flex: 1;
-  max-width: 720px;
   padding: 3rem 3rem 4rem;
 }
 
