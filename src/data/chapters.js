@@ -67,7 +67,7 @@ Y fíjate qué maravilla cómo se formatea todo esto en algo tan sencillo como l
   {
     id: 4,
     title: "Capítulo 4",
-    subtitle: "Conversaciones",
+    subtitle: "Cinc dits en la mà",
     content: `
       Aquí va el contenido del capítulo 4.
     `,
@@ -75,7 +75,7 @@ Y fíjate qué maravilla cómo se formatea todo esto en algo tan sencillo como l
   {
     id: 5,
     title: "Capítulo 5",
-    subtitle: "El último desayuno",
+    subtitle: "El presente y la eternidad",
     content: `
       Aquí va el contenido del capítulo 5.
     `,
