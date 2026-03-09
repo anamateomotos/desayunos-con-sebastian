@@ -2,13 +2,11 @@ const chapters = [
   {
     id: 1,
     title: "Capítulo 1",
-    subtitle: "El comienzo de todo",
+    subtitle: "Despertar",
     content: `
-      Aquí va el contenido del capítulo 1.
+      El punto de partida es uno: despertar. Y no hablamos de abrir los ojos por la mañana, sino de despertar de verdad. Tomar consciencia de algo que llevamos dentro pero que muchas veces olvidamos: que estamos llamados a ser la mejor persona posible. A la bondad, a la generosidad, a la fidelidad. Ese despertar no es un esfuerzo, es un darse cuenta. Es reconocer que hay un orden, puesto ahí por Dios, que nos invita a vivir de esa manera.
 
-      Puedes escribir todo lo que quieras aquí. Párrafos, ideas, historias...
-      
-      Este es un segundo párrafo de ejemplo para el capítulo 1.
+      Pero para poder despertar de verdad, primero hay que entender cómo funciona nuestra mente. Cómo percibimos el mundo, cómo lo interpretamos, y hasta qué punto esa interpretación nos puede mantener dormidos sin que nos demos cuenta.
     `,
   },
   {
@@ -62,6 +60,7 @@ Con eso tenemos la Trinidad completa. El origen de donde sale todo es Dios en su
 
 ¿Y de qué nos salva el Hijo? De tu interpretación continua. De creer que ahí se acaba todo, que la película que tú te montas es la realidad entera. Jesús siempre te va a salvar ahí y te va a decir: "Eh, yo estoy más allá". Hay más de lo que tú crees. Hay un orden independientemente de que te parezca que no lo hay. Existe esa bondad de verdad, y siempre se puede crecer más. La vida es eterna, la vida no es lo que tú te crees, siempre es más. Ese "además" te lo da Jesucristo siempre.
 
+Y fíjate qué maravilla cómo se formatea todo esto en algo tan sencillo como la comunión. Yo ahora tomo la comunión cada vez con más sentido. Es algo tan sencillo pero tan potente: estoy comulgando la divinidad no interpretable hecha hombre. Como es divino a la vez, lo tomo en forma divina, un trozo de pan, pero Él decidió quedarse ahí para que estemos en una especie de intimidad y contacto continuo. Para que recuerde que, pase lo que pase, se me invita a ir más allá y a vivir con normalidad sabiendo que lo importante es poner esa bondad y esa fidelidad en primer lugar, por encima de lo que te pueda parecer.
 
     `,
   },
